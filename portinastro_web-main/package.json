@@ -1,0 +1,34 @@
+{
+  "name": "luciano-jr-portfolio",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Portfólio de Luciano Junior (Astro + Tailwind)",
+  "author": "Luciano Junior",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Ljay/MyPortiweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/1Ljay/MyPortiweb/issues"
+  },
+  "homepage": "https://github.com/1Ljay/MyPortiweb#readme",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.0",
+    "@astrojs/tailwind": "^6.0.2",
+    "@iconify-json/logos": "^1.2.9",
+    "@iconify-json/mdi": "^1.2.3",
+    "@iconify-json/simple-icons": "^1.2.54",
+    "astro": "^5.0.0",
+    "astro-icon": "^1.1.5",
+    "tailwindcss": "^3.4.18",
+    "typescript": "^5.6.0"
+  }
+}
