@@ -24,10 +24,10 @@ export const ui = {
     'projects.header': 'Meus Projetos',
     'projects.title': 'Projetos em Destaque',
 
-    'project.1.title': '',
-    'project.1.description': '',
+    'project.1.title': 'Altavia',
+    'project.1.description': 'Plataforma moderna de reservas de viagens com autenticação via Google, pagamentos integrados ao Stripe e interface responsiva construída em Next.js 13 e Tailwind CSS.',
     'project.1.action': 'Ver Repositório',
-    'project.1.techs': 'C#, .NET, PostgreSQL, JWT, Swagger, Docker, API REST, SOLID, Design Patterns, Clean Architecture',
+    'project.1.techs': 'Next.js 13, React 18, TypeScript, Tailwind CSS, Prisma, SQLite, NextAuth, Stripe',
 
     'project.2.title': '',
     'project.2.description': '',
@@ -79,10 +79,10 @@ export const ui = {
     'projects.header': 'My Projects',
     'projects.title': 'Featured Projects',
 
-    'project.1.title': '',
-    'project.1.description': '',
+    'project.1.title': 'Altavia',
+    'project.1.description': 'Modern travel reservation platform with Google authentication, integrated Stripe payments and responsive interface built with Next.js 13 and Tailwind CSS.',
     'project.1.action': 'View Repository',
-    'project.1.techs': 'C#, .NET, PostgreSQL, JWT, Swagger, Docker, REST API, SOLID, Design Patterns, Clean Architecture',
+    'project.1.techs': 'Next.js 13, React 18, TypeScript, Tailwind CSS, Prisma, SQLite, NextAuth, Stripe',
 
     'project.2.title': '',
     'project.2.description': '',
@@ -134,10 +134,10 @@ export const ui = {
     'projects.header': 'Mis Proyectos',
     'projects.title': 'Proyectos Destacados',
 
-    'project.1.title': '',
-    'project.1.description': '',
+    'project.1.title': 'Altavia',
+    'project.1.description': 'Plataforma moderna de reservas de viagens con autenticação via Google, pagos integrados al Stripe y interfaz responsiva construída en Next.js 13 y Tailwind CSS.',
     'project.1.action': 'Ver Repositorio en GitHub',
-    'project.1.techs': 'C#, .NET, PostgreSQL, JWT, Swagger, Docker, API REST, SOLID, Patrones de Diseño, Clean Architecture',
+    'project.1.techs': 'Next.js 13, React 18, TypeScript, Tailwind CSS, Prisma, SQLite, NextAuth, Stripe',
 
     'project.2.title': '',
     'project.2.description': '',
