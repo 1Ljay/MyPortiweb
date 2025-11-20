@@ -29,10 +29,10 @@ export const ui = {
     'project.1.action': 'Ver Repositório',
     'project.1.techs': 'Next.js 13, React 18, TypeScript, Tailwind CSS, Prisma, SQLite, NextAuth, Stripe',
 
-    'project.2.title': '',
-    'project.2.description': '',
+    'project.2.title': 'LJ Barber',
+    'project.2.description': 'Sistema de agendamento para barbearias desenvolvido com Next.js 14, React, TypeScript, Prisma e PostgreSQL.',
     'project.2.action': 'Ver Repositório',
-    'project.2.techs': 'Electron, Node.js, Express, Discord OAuth2, electron-store, fs-extra',
+    'project.2.techs': 'Next.js 14, React, TypeScript, Prisma, NextAuth.js, Tailwind CSS, Shadcn/ui, PostgreSQL, date-fns',
 
     'project.3.title': '',
     'project.3.description': '',
@@ -84,10 +84,10 @@ export const ui = {
     'project.1.action': 'View Repository',
     'project.1.techs': 'Next.js 13, React 18, TypeScript, Tailwind CSS, Prisma, SQLite, NextAuth, Stripe',
 
-    'project.2.title': '',
-    'project.2.description': '',
-    'project.2.action': 'View Website',
-    'project.2.techs': 'Electron, Node.js, Express, Discord OAuth2, electron-store, fs-extra',
+    'project.2.title': 'LJ Barber',
+    'project.2.description': 'Barbershop scheduling system developed with Next.js 14, React, TypeScript, Prisma and PostgreSQL.',
+    'project.2.action': 'View Repository',
+    'project.2.techs': 'Next.js 14, React, TypeScript, Prisma, NextAuth.js, Tailwind CSS, Shadcn/ui, PostgreSQL, date-fns',
 
     'project.3.title': '',
     'project.3.description': '',
@@ -139,10 +139,10 @@ export const ui = {
     'project.1.action': 'Ver Repositorio en GitHub',
     'project.1.techs': 'Next.js 13, React 18, TypeScript, Tailwind CSS, Prisma, SQLite, NextAuth, Stripe',
 
-    'project.2.title': '',
-    'project.2.description': '',
+    'project.2.title': 'LJ Barber',
+    'project.2.description': 'Sistema de agendamiento para barberías desarrollado con Next.js 14, React, TypeScript, Prisma y PostgreSQL.',
     'project.2.action': 'Ver Repositorio en GitHub',
-    'project.2.techs': 'Electron, Node.js, Express, Discord OAuth2, electron-store, fs-extra',
+    'project.2.techs': 'Next.js 14, React, TypeScript, Prisma, NextAuth.js, Tailwind CSS, Shadcn/ui, PostgreSQL, date-fns',
 
     'project.3.title': '',
     'project.3.description': '',
